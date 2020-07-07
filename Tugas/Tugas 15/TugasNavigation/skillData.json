@@ -1,0 +1,58 @@
+{
+  "items":[
+    {
+      "id": 1,
+      "skillName": "React Native",
+      "category": "Library",
+      "categoryName": "Framework / Library",
+      "iconType": "MaterialCommunityIcons",
+      "iconName": "react",
+      "percentageProgress": "45%"
+    },
+    {
+      "id": 2,
+      "skillName": "Laravel",
+      "category": "Library",
+      "categoryName": "Framework / Library",
+      "iconType": "MaterialCommunityIcons",
+      "iconName": "laravel",
+      "percentageProgress": "40%"
+    },
+    {
+      "id": 3,
+      "skillName": "JavaScript",
+      "category": "Language",
+      "categoryName": "Bahasa Pemrograman",
+      "iconType": "MaterialCommunityIcons",
+      "iconName": "language-javascript",
+      "percentageProgress": "35%"
+    },
+    {
+      "id": 4,
+      "skillName": "Python",
+      "category": "Language",
+      "categoryName": "Bahasa Pemrograman",
+      "iconType": "MaterialCommunityIcons",
+      "iconName": "language-python",
+      "percentageProgress": "60%"
+    },
+    {
+      "id": 5,
+      "skillName": "Git",
+      "category": "Technology",
+      "categoryName": "Teknologi",
+      "iconType": "MaterialCommunityIcons",
+      "iconName": "git",
+      "percentageProgress": "75%"
+    },
+    {
+      "id": 6,
+      "skillName": "Gitlab",
+      "category": "Technology",
+      "categoryName": "Teknologi",
+      "iconType": "MaterialCommunityIcons",
+      "iconName": "gitlab",
+      "percentageProgress": "70%"
+    }
+  ]
+}  
